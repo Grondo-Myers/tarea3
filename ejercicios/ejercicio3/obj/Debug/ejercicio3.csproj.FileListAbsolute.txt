@@ -1,0 +1,5 @@
+C:\Users\dawin\Desktop\ejercicios\ejercicio3\bin\Debug\ejercicio3.exe.config
+C:\Users\dawin\Desktop\ejercicios\ejercicio3\bin\Debug\ejercicio3.exe
+C:\Users\dawin\Desktop\ejercicios\ejercicio3\bin\Debug\ejercicio3.pdb
+C:\Users\dawin\Desktop\ejercicios\ejercicio3\obj\Debug\ejercicio3.exe
+C:\Users\dawin\Desktop\ejercicios\ejercicio3\obj\Debug\ejercicio3.pdb

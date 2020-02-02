@@ -1,0 +1,6 @@
+C:\Users\dawin\Desktop\ejercicios\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\dawin\Desktop\ejercicios\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\dawin\Desktop\ejercicios\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\dawin\Desktop\ejercicios\ejercicio2\obj\Debug\ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\dawin\Desktop\ejercicios\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\dawin\Desktop\ejercicios\ejercicio2\obj\Debug\ejercicio2.pdb
